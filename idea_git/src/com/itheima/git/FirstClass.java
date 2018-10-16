@@ -15,6 +15,6 @@ public class FirstClass {
 
     public void addTest(){
         System.out.println("see you again..git");
-        System.out.println("delete the method of test use github")
+        System.out.println("delete the method of test use github");
     }
 }
